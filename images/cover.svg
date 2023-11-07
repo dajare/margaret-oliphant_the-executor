@@ -3,11 +3,11 @@
 	<title>The cover for The Executor, by Margaret Oliphant</title>
 	<style type="text/css">
 		.title-box{
-			fill-opacity: .75;
+			fill-opacity: .6;
 		}
 
 		text{
-			fill: #fff;
+			fill: #000;
 			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
@@ -22,7 +22,7 @@
 		}
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
-	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
+	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z" fill="white"/>
 	<text class="title" x="700" y="1825">THE EXECUTOR</text>
 	<text class="author" x="700" y="1925">MARGARET OLIPHANT</text>
 </svg>
