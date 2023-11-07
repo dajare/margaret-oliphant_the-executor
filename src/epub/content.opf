@@ -40,27 +40,27 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Chronicles of Carlingford</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An attorney is forced to act upon the instructions of an unusual will.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The small town of Carlingford is shocked by the terms of the will read on the demise of old Mrs. Thomson, none more than the lawyer named as the will’s executor, John Brown. One surprise is the wealth of her estate, and the other is that she does not leave anything to her next-of-kin in the town who had been quietly counting on an inheritance.&lt;/p&gt;
+			&lt;p&gt;As the story unfolds of John Brown’s efforts to discharge his duties appropriately, readers are introduced to the town and a few of its leading citizens: the Rector, and the young Dr. Rider in particular. Carlingford was to become the setting for a &lt;a href="https://standardebooks.org/collections/chronicles-of-carlingford"&gt;series&lt;/a&gt; of novels that are among &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant"&gt;Margaret Oliphant’s&lt;/a&gt; most successful works. Threads of plots emerging from this novella became the basis for the Chronicles which followed.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59759</dc:source>
 		<dc:source>https://books.google.com/books?id=Rmw6AQAAMAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">This ebook was made using the Standard Ebooks tools and procedures, but it is a private production.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/margaret-oliphant_the-executor</meta>
 		<dc:creator id="author">Margaret Oliphant</dc:creator>
 		<meta property="file-as" refines="#author">Oliphant, Margaret</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Margaret_Oliphant</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50048460</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">David Wilkie</dc:contributor>
+		<meta property="file-as" refines="#artist">Wilkie, David</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/David_Wilkie_(artist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85342493</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>
